@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://c2paydbadmin:wPNognhZJkYABXxu@cluster0.t3eerp1.mongodb.net/c2pay-devdb
+      database: c2pay-devdb
